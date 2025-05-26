@@ -22,21 +22,5 @@
         "protein": "Normal Altı",
         "yag": "Traş Makinesi,Makas",
         "gorsel": "https://github.com/Ugur1296/sacistee/blob/main/fadekesim.png"
-    },
-    {
-        "isim": "Undercut Kesim",
-        "kalori": "500TL",
-        "karbonhidrat": "30 Dakika",
-        "protein": "Normalin",
-        "yag": "Traş Makinesi,Wax",
-        "gorsel": "https://github.com/Ugur1296/sacistee/blob/main/undercutkesim.png"
-    },
-    {
-        "isim": "Yan Kesim",
-        "kalori": "500TL",
-        "karbonhidrat": "35 Dakika",
-        "protein": "Normalin Üstü",
-        "yag": "Traş Makinesi,Wax,Tarak",
-        "gorsel": "https://github.com/Ugur1296/sacistee/blob/main/yankesim.png"
     }
 ]
