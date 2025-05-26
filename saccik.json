@@ -1,0 +1,42 @@
+[
+  {
+      "isim": "Buzz Kesim",
+      "kalori": "300TL",
+      "karbonhidrat": "15 Dakika",
+      "protein": "Düşük",
+      "yag": "Traş Makinesi(6-4-2 Numara)",
+      "gorsel": "https://github.com/Ugur1296/sacistee/blob/main/buzzkesim.png"
+    },
+    {
+        "isim": "Crew Kesim",
+        "kalori": "400TL",
+        "karbonhidrat": "20 Dakika",
+        "protein": "Normal Altı",
+        "yag": "Traş Makinesi(2-3 Numara)",
+        "gorsel": "https://github.com/Ugur1296/sacistee/blob/main/crewkesim.png"
+    },
+    {
+        "isim": "Fade Kesim",
+        "kalori": "400TL",
+        "karbonhidrat": "20 Dakika",
+        "protein": "Normal Altı",
+        "yag": "Traş Makinesi,Makas",
+        "gorsel": "https://github.com/Ugur1296/sacistee/blob/main/fadekesim.png"
+    },
+    {
+        "isim": "Undercut Kesim",
+        "kalori": "500TL",
+        "karbonhidrat": "30 Dakika",
+        "protein": "Normalin",
+        "yag": "Traş Makinesi,Wax",
+        "gorsel": "https://github.com/Ugur1296/sacistee/blob/main/undercutkesim.png"
+    },
+    {
+        "isim": "Yan Kesim",
+        "kalori": "500TL",
+        "karbonhidrat": "35 Dakika",
+        "protein": "Normalin Üstü",
+        "yag": "Traş Makinesi,Wax,Tarak",
+        "gorsel": "https://github.com/Ugur1296/sacistee/blob/main/yankesim.png"
+    }
+]
